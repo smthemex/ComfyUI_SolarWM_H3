@@ -1,7 +1,9 @@
 # ComfyUI_SolarWM_H3
 [SolarWM](https://github.com/Junchao-cs/SolarWM):Open Data and Scalable Training for Long-Horizon Video World Models,use this node to run minimaxH3
 
+
 # Tips
+*  更多功能，需要官方项目代码放出  
 * orbit_turns=0  forward / 前进， >0 turn left/右转 ，<0 turn right/右转  
 * radius 镜头轨迹半径  
 * radius_end < radius  为推镜头；radius_end > radius 为拉镜头  
