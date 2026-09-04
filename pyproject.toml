@@ -1,0 +1,15 @@
+[project]
+name = "solarwm_h3"
+description = "SolarWM:Open Data and Scalable Training for Long-Horizon Video World Models,use this node to run minimaxH3"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/smthemex/ComfyUI_SolarWM_H3"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "smthemex"
+DisplayName = "ComfyUI_SolarWM_H3"
+Icon = ""
+includes = []
